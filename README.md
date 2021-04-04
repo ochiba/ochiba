@@ -11,3 +11,5 @@
 [![AWS-SAA](badges/aws-saa.png "AWS-SAA")](https://www.youracclaim.com/badges/ba7d012a-ffb1-4eca-898e-29494ef9e0be/public_url)
 [![AWS-DVA](badges/aws-dva.png "AWS-DVA")](https://www.youracclaim.com/badges/0c291abe-295c-4d45-896d-8dc37b37ee64/public_url)
 
+[![AWS-SCS](badges/aws-scs.png "AWS-SCS")](https://www.credly.com/badges/460ed9f9-d74c-4abb-9071-4aff117ee506/public_url)
+
