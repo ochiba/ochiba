@@ -13,3 +13,11 @@
 
 [![AWS-SCS](badges/aws-scs.png "AWS-SCS")](https://www.credly.com/badges/460ed9f9-d74c-4abb-9071-4aff117ee506/public_url)
 
+## Azure
+
+[![MSC-AAA](badges/msc-aaa.png "MSC-AAA")](https://www.credly.com/badges/651b7183-0da6-41fd-a9d6-ceb28a8e89a4/public_url)
+
+## VMware
+
+[![VCP-NV](badges/vcp-nv.png "VCP-NV")](https://www.credly.com/badges/807b6e75-488c-4520-8e9c-99a7ef1b9b2f/public_url)
+
