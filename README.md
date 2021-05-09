@@ -12,6 +12,7 @@
 [![AWS-DVA](badges/aws-dva.png "AWS-DVA")](https://www.credly.com/badges/0c291abe-295c-4d45-896d-8dc37b37ee64/public_url)
 [![AWS-SOA](badges/aws-soa.png "AWS-SOA")](https://www.credly.com/badges/b672ff65-5f98-43af-9b1b-e1dc63160f63/public_url)
 
+[![AWS-DOP](badges/aws-dop.png "AWS-DOP")](https://www.credly.com/badges/0dfc8062-83e9-4344-a3e4-9dbb0c48de59/public_url)
 [![AWS-SCS](badges/aws-scs.png "AWS-SCS")](https://www.credly.com/badges/460ed9f9-d74c-4abb-9071-4aff117ee506/public_url)
 
 ## Azure
